@@ -8,7 +8,7 @@ A clean, minimal, single-page personal portfolio website built with pure HTML5, 
 
 Once deployed, your site will be at:
 ```
-https://<your-github-username>.github.io/<repo-name>/
+https://lkpadmanaban.github.io/portfolio
 ```
 
 ---
